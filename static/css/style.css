@@ -67,10 +67,10 @@ body {
 
 select {
   display: block;
-  width: 100%;
-  padding: 8px;
+  padding: 10px;
   color: #8e979f;
   outline: none;
+  margin-left: 15px;
 }
 
 #table-area th {
