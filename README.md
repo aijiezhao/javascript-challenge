@@ -6,6 +6,8 @@ WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `
 
 In this challenge, I wrote code that created a table dynamically based upon a [dataset provided](static/js/data.js), and also allow users to filter the table data for specific values. I only use pure JavaScript, HTML, and CSS, and D3.js on my web pages.
 
+Click to see the result: https://aijiezhao.github.io/javascript-challenge/
+
 ## Tasks
 
 ### Level 1: Automatic Table and Date Search
